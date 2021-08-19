@@ -30,7 +30,7 @@ print(ticker['time'])
 print(ticker['bid'])
 print(ticker['ask'])
 
-# mathematical testing bullshit
+# mathematical testing
 
 bid = int(float(ticker['bid']))
 ask = int(float(ticker['ask']))
